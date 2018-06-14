@@ -1,6 +1,4 @@
 //1.convert a binary number to a decimal
-
-
 //2.convert decimal to binary,hexadecimal,octal
 //3.to generate random number
 function randomNum() {
